@@ -1,0 +1,32 @@
+_repo: A-Practical-View-of-the-Prevailing-Religious-System-of-Professed-Christians-in-the-Middle-and__25709
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilberforce, William
+    alias: Wilberforce, W. (William)
+    birthdate: 1759
+    deathdate: 1833
+    gutenberg_agent_id: '3635'
+    url: http://www.gutenberg.org/2009/agents/3635
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Wilberforce
+    - http://fr.wikipedia.org/wiki/William_Wilberforce
+description: ''
+gutenberg_issued: '2008-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcc 'BR'
+- !lcsh 'Christianity -- Great Britain'
+title: A Practical View of the Prevailing Religious System of Professed Christians,
+  in the Middle and Higher Classes in this Country, Contrasted with Real Christianity.
+url: http://www.gutenberg.org/ebooks/25709
